@@ -51,7 +51,3 @@ The program includes an implementation of the Eratosthenes sieve algorithm (`Era
 
 1. **Compile**: Run `make` to compile the program.
 2. **Execute**: Run `./primes` followed by any additional options or arguments.
-
-## License
-
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
